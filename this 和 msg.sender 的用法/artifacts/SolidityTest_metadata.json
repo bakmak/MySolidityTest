@@ -1,0 +1,77 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"anonymous": false,
+				"inputs": [
+					{
+						"indexed": false,
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"name": "log",
+				"type": "event"
+			},
+			{
+				"inputs": [],
+				"name": "owner",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"this 和 msg.sender 的用法/solidityTest.sol": "SolidityTest"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"this 和 msg.sender 的用法/solidityTest.sol": {
+			"keccak256": "0x1b588f6fc323161ce8a70d4f8a3338f3cc8a72d8516d4bc71db6a76655643c66",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://d30fd29f519d83929568c53768e62b7dfd47450281c0389f95bdb06d3c519582",
+				"dweb:/ipfs/QmZuSqui9DdwrJ2mLMxN1JpQqSyRDc9ebrqaxKA6Ku5gzr"
+			]
+		}
+	},
+	"version": 1
+}

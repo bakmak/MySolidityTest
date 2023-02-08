@@ -1,0 +1,66 @@
+{
+	"compiler": {
+		"version": "0.7.6+commit.7338295f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "payable",
+				"type": "constructor"
+			},
+			{
+				"stateMutability": "nonpayable",
+				"type": "fallback"
+			},
+			{
+				"inputs": [],
+				"name": "getETH",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"stateMutability": "payable",
+				"type": "receive"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"transfer 实现转账/cs.sol": "cs"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"transfer 实现转账/cs.sol": {
+			"keccak256": "0xdd71a2477ae427c5ea897a85ee07e21e4d839daf974a4b11ee6ba5620ad1efc9",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://a801e65de19ac6364fff387729fcace365f2802b2c4f39b3828a3edfa4d252b2",
+				"dweb:/ipfs/QmXcFx2EMYgxHcpwCZvBU9tKPGwx3myfxUqcMsS4MExVGm"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "count",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "test",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"访问权限/Employee4.sol": "Manager"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"访问权限/Employee4.sol": {
+			"keccak256": "0x9b40705a322e74e9722bece1acdd89dcbbc45c0f00f794543e7a47cf8ecc0c35",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://1eae461f7c0f054d49ddd9cfa64cafa014f130495c9932406c86791555072bbc",
+				"dweb:/ipfs/QmPE6x8EvaHJNf4p7i1hXY7DZkLAqMXFVUFcqbWGyzognp"
+			]
+		}
+	},
+	"version": 1
+}

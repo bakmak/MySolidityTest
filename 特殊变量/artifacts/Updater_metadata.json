@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.5.17+commit.d19bba13"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"constant": false,
+				"inputs": [],
+				"name": "updateBalance",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"payable": false,
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"特殊变量/solidityTest.sol": "Updater"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"特殊变量/solidityTest.sol": {
+			"keccak256": "0x495d7fac932fe3d53a1a4a65cb23c4e31185f816974d596866f97bf748c6f8cc",
+			"urls": [
+				"bzz-raw://77f5291a6a82a7ccc3d38155026f31ca3beff802f9b5b2bb675b52f966bdf4bb",
+				"dweb:/ipfs/Qmdq5X79DNnQJLXv2YtPnbsJjNE8Xh2RAY6ytQww8BBGr8"
+			]
+		}
+	},
+	"version": 1
+}

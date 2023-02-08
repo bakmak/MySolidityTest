@@ -1,0 +1,51 @@
+{
+	"compiler": {
+		"version": "0.4.26+commit.4563c3fc"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"constant": true,
+				"inputs": [],
+				"name": "get",
+				"outputs": [
+					{
+						"name": "",
+						"type": "int256"
+					}
+				],
+				"payable": false,
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"值类型/IntegerTest.sol": "IntegerTest"
+		},
+		"evmVersion": "byzantium",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"值类型/IntegerTest.sol": {
+			"keccak256": "0x401b9bc820191b0e5cd5a9b3b5d5b73595d5e8c2212e937cbd02e25b5fbedfac",
+			"urls": [
+				"bzzr://8872b636762b742f84f241506fa8fd9d31d22330055cd89e116041a59c0c98c2"
+			]
+		}
+	},
+	"version": 1
+}

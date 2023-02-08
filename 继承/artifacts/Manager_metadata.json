@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getSalary",
+				"outputs": [
+					{
+						"internalType": "int256",
+						"name": "",
+						"type": "int256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"继承/Employee2Test.sol": "Manager"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"继承/Employee2Test.sol": {
+			"keccak256": "0xbd2a4293ff6e71734a57269a5ada030e8f67eddac01128dbd91260bab285ae61",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://fcbfd2f056a0673ab3be09e8bf1072079d99dda0749fa8fbb291d8cdafd60c8f",
+				"dweb:/ipfs/QmXgGAo79hSETcjpHDg14ain8wypTKg4rEDQNcmy7WXVTq"
+			]
+		}
+	},
+	"version": 1
+}

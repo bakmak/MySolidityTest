@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "val",
+						"type": "string"
+					}
+				],
+				"name": "operations",
+				"outputs": [],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"数据位置/calldatatTest.sol": "SolidityTest"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"数据位置/calldatatTest.sol": {
+			"keccak256": "0xf3a55274ea710fadd8dd46118b7de7a064651e271ff83801b9fb8f10fc592e9a",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://fc88898b7a4b5c5e92ab7d21be2ed9a0577e448ff020a40cb4691047f09c55e7",
+				"dweb:/ipfs/QmPnH46mfAVkRaz85c5nxBDL8aH4M9WSM2ntqAciZexwhS"
+			]
+		}
+	},
+	"version": 1
+}

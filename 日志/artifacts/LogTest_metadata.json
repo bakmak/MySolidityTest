@@ -1,0 +1,64 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"anonymous": false,
+				"inputs": [
+					{
+						"indexed": false,
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"name": "Log",
+				"type": "event"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"日志/logTest.sol": "LogTest"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"日志/logTest.sol": {
+			"keccak256": "0x0bebdc62c27b498a326a1f723d4554a15d734f711844e745ff7343806a6ac3d8",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://ac5dd14fc8af8c6152a85172d0d8b6550cef46b7da0285017898863f81c064d8",
+				"dweb:/ipfs/QmYyjwpuigGqmsJCHFx2mQZb8h3DL4fV8Qs2wuPXviT1Ed"
+			]
+		}
+	},
+	"version": 1
+}

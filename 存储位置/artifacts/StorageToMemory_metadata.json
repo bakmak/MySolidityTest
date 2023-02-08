@@ -1,0 +1,51 @@
+{
+	"compiler": {
+		"version": "0.4.26+commit.4563c3fc"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"constant": false,
+				"inputs": [],
+				"name": "call",
+				"outputs": [
+					{
+						"name": "",
+						"type": "string"
+					}
+				],
+				"payable": false,
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"存储位置/StorageToMemory.sol": "StorageToMemory"
+		},
+		"evmVersion": "byzantium",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"存储位置/StorageToMemory.sol": {
+			"keccak256": "0x17998a2e4ca821aa4ae3a201e4b101797566b521d7fbc59b64d12bacea40db5a",
+			"urls": [
+				"bzzr://03c549ff8bc036b9ef25eae38ab062363921d34ed5cd09c9b8b7d345f1c1893f"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,69 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getGlobalVars",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					},
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"变量/solidityTest3.sol": "Test"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"变量/solidityTest3.sol": {
+			"keccak256": "0x80835b83897fd2749bab2f4c438deded469382e9e44289b99c5a80883e4dd11a",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://9713d6cdfd43f5c23376394cb8c0ac9ad39b96274cd20c43ec763e54fda4d761",
+				"dweb:/ipfs/Qmet47SvMs4W3acpYRmz782hvmaTP2jo8iR39gsUTZRwMd"
+			]
+		}
+	},
+	"version": 1
+}

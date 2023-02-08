@@ -1,0 +1,36 @@
+{
+	"compiler": {
+		"version": "0.4.26+commit.4563c3fc"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"interface/Uniswap.sol": "UniswapV2Pair"
+		},
+		"evmVersion": "byzantium",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"interface/Uniswap.sol": {
+			"keccak256": "0xdac3969f29abb315da8a04242fe8442ef6104212012d15d1a175e567f7e3a710",
+			"urls": [
+				"bzzr://c23b5ba3e55469bf3bc72ecab1fd0c1b803a6757f85a36fdae5f508e1080113a"
+			]
+		}
+	},
+	"version": 1
+}

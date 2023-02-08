@@ -1,0 +1,64 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "payable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "address payable",
+						"name": "to",
+						"type": "address"
+					}
+				],
+				"name": "kill",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"自毁合约/Kill1.sol": "Kill"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"自毁合约/Kill1.sol": {
+			"keccak256": "0x5018a13d6ccb4cd16b25f92db5dd3cb891ad9d9cf67ccd854b017e109f64d9db",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://2aa18bbf812475f890db48a24932e7b56254541e5524cdd3d86632fc4e04c6ef",
+				"dweb:/ipfs/QmT6towZSvAXxXZXdazNxSau3g4SnocAxWRPna2ctKRj5a"
+			]
+		}
+	},
+	"version": 1
+}

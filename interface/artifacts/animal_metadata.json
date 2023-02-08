@@ -1,0 +1,56 @@
+{
+	"compiler": {
+		"version": "0.4.26+commit.4563c3fc"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"constant": false,
+				"inputs": [
+					{
+						"name": "_addr",
+						"type": "address"
+					}
+				],
+				"name": "test",
+				"outputs": [
+					{
+						"name": "",
+						"type": "string"
+					}
+				],
+				"payable": false,
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"interface/CatAndDog.sol": "animal"
+		},
+		"evmVersion": "byzantium",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"interface/CatAndDog.sol": {
+			"keccak256": "0x50bed73ea3d667fde5b7b160fe06f07245c4801e4adc6f02639af6d83e4b4770",
+			"urls": [
+				"bzzr://c99ce635f23f4dee1e9bdb49ad2d0618274da11754df655958ad535fb1b41303"
+			]
+		}
+	},
+	"version": 1
+}

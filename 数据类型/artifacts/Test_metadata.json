@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "a",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "b",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"数据类型/max_min_test.sol": "Test"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"数据类型/max_min_test.sol": {
+			"keccak256": "0xbe0f970aa6d9fa42e19c6ab99daa14f5ddf20657128baf105ac8e7ac356847fc",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://a20b14193b199848f37d5e8044db491520e324c3c7ed76c2b8cbd90aa50bb2a7",
+				"dweb:/ipfs/QmeYDGzpovPM6GCxVWZFrR1S2RZCaZqtJebysNVpXDVtbc"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,84 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_counter",
+						"type": "uint256"
+					}
+				],
+				"name": "fillNumbers",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "payable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"name": "numbers",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"break与continue/BreakExample.sol": "BreakExample"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"break与continue/BreakExample.sol": {
+			"keccak256": "0x50b1fef0d1e5b31909b49bddd37dad090d44f3e2d6bde75616a1fdafa37dc349",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://2151b6ad34ad718995435c361f06966e7d9ba61330df12fafa6a5ec7549f625d",
+				"dweb:/ipfs/QmNubVaYtuq8f13i8E21nJMrDSgSskbmdMsRmNYp5KA2Cd"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,70 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "num1",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "num2",
+						"type": "uint256"
+					}
+				],
+				"name": "calculate",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "result",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"变量的数据位置规则/DataLocation1 .sol": "DataLocation"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"变量的数据位置规则/DataLocation1 .sol": {
+			"keccak256": "0xa8f46e159144dcd4c955cfa55cf3eb92f30318b9432104bf53f6580145cabb29",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://1426edaadf370e511ece34eac69f22bb077445b11e3757b707afd10296f4c3ed",
+				"dweb:/ipfs/Qmf1nic8JiuPLF9iUGNKZwQ8RHpA7YS5P3EqfqdiRkqgXx"
+			]
+		}
+	},
+	"version": 1
+}

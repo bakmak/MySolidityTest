@@ -1,0 +1,42 @@
+{
+	"compiler": {
+		"version": "0.4.26+commit.4563c3fc"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"payable": false,
+				"stateMutability": "nonpayable",
+				"type": "fallback"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"值类型/addressTest.sol": "SimpleFallback"
+		},
+		"evmVersion": "byzantium",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"值类型/addressTest.sol": {
+			"keccak256": "0xc026f8350462d89d4e2e12318adae5d151dd18d9e474473046da9674ba194d1d",
+			"urls": [
+				"bzzr://266ee894f6c1f8c6653fb805128aa245553cc16e247a9459faec7256b17ccda6"
+			]
+		}
+	},
+	"version": 1
+}

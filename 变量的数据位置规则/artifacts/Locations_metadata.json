@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "doSomething",
+				"outputs": [],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"变量的数据位置规则/Locations.sol": "Locations"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"变量的数据位置规则/Locations.sol": {
+			"keccak256": "0x04034e336fe1c856674659411fee8c2711e5ad01509b18f152d5ab37817cd77a",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://66bcde788276a1d18335961c6cbf8421b089fdc4c7543016c83423990501cd8d",
+				"dweb:/ipfs/QmYkMRB5iZc2PjCAqqUrfnQK7BFmqCaZBMPJaM9DqjexMF"
+			]
+		}
+	},
+	"version": 1
+}

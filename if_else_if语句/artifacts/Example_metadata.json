@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "checkAge",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_age",
+						"type": "uint256"
+					}
+				],
+				"name": "setAge",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"if_else_if语句/Example.sol": "Example"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"if_else_if语句/Example.sol": {
+			"keccak256": "0x77d5ad740f9bee9b76356f1b5925177bbee77a862a0ddb461631bbd2c0ceead4",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://a3cb208b35a1ed01345ba12c9172f66f7830caa8cdadcf828dbc76015b46d1d3",
+				"dweb:/ipfs/QmVENeYvvh6JwAD8PdUG6nNrm21hreoLKtjyCu3RWCXzCf"
+			]
+		}
+	},
+	"version": 1
+}

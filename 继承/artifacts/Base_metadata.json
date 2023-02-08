@@ -1,0 +1,57 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_a",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"继承/Employee1Test.sol": "Base"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"继承/Employee1Test.sol": {
+			"keccak256": "0x63be9b00fcd051442d787a204a2231e04db5afd66df88bcfccd43cbd03f0dc7e",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://2786d61e74eb9872443bae2eec8a78fbd474ef211ad15e00f334efaf11f28f1a",
+				"dweb:/ipfs/QmS9FBHHnU3F6rQwrKRK9RtWdYS4q3sf8gyTUhJG7pu91z"
+			]
+		}
+	},
+	"version": 1
+}
